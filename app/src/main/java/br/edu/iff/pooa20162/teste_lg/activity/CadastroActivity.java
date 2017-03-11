@@ -41,8 +41,8 @@ public class CadastroActivity extends Activity {
         EditText telefone = (EditText) findViewById(R.id.etTelefoneP);
         telefone.setText(telefonep);
 
-        EditText data = (EditText) findViewById(R.id.etDataNascP);
-        data.setText(dataNascp);
+        EditText dataNasc = (EditText) findViewById(R.id.etDataNascP);
+        dataNasc.setText(dataNascp);
 
 
         btsalvar = (Button) findViewById(R.id.btSalvarP);
