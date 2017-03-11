@@ -8,10 +8,24 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+
+import java.util.ArrayList;
 
 import br.edu.iff.pooa20162.teste_lg.R;
 
+import br.edu.iff.pooa20162.teste_lg.adapter.ProprietarioAdapter;
+import br.edu.iff.pooa20162.teste_lg.model.Proprietario;
+
 public class ListActivity extends AppCompatActivity {
+
+    public void chamaProprietarios(View v){
+        Intent intentpro = new Intent(ListActivity.this, CadastroActivity.class);
+        startActivity(intentpro);
+
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -59,4 +73,32 @@ public class ListActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    protected void onResume() {
+        super.onResume();
+        final ArrayList<Proprietario> proprietarios  = (ArrayList) Proprietario.listAll(Proprietario.class);
+
+        ListView lista = (ListView) findViewById(R.id.lvProprietarios);
+        ArrayAdapter adapter = new ProprietarioAdapter(this,proprietarios);
+        lista.setAdapter(adapter);
+
+        lista.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent intent = new Intent(ListActivity.this,CadastroActivity.class);
+
+                intent.putExtra("id",proprietarios.get(i).getId().intValue());
+                intent.putExtra("nome",proprietarios.get(i).getNome());
+                intent.putExtra("endereco",proprietarios.get(i).getEndereco());
+                intent.putExtra("telefone",proprietarios.get(i).getTelefone());
+                intent.putExtra("dataNasc",proprietarios.get(i).getDataNasc());
+
+                startActivity(intent);
+
+            }
+        });
+
+
+    }
+
 }
