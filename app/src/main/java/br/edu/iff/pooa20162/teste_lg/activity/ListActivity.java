@@ -1,6 +1,9 @@
 package br.edu.iff.pooa20162.teste_lg.activity;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8b0a34012fcd19862491bcb7e098cd79159ed175
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -25,13 +28,21 @@ public class ListActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+<<<<<<< HEAD
                 Intent intent = new Intent(ListActivity.this,CadastroActivity.class);
+=======
+                Intent intent = new Intent(ListaActivity.this,CadastroActivity.class);
+>>>>>>> 8b0a34012fcd19862491bcb7e098cd79159ed175
                 intent.putExtra("id",0);
                 intent.putExtra("nome","");
                 intent.putExtra("endereco","");
                 intent.putExtra("telefone","");
                 intent.putExtra("dataNasc","");
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8b0a34012fcd19862491bcb7e098cd79159ed175
                 startActivity(intent);
             }
         });
