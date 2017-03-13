@@ -17,13 +17,13 @@ public class CadastroActivity extends Activity {
 
     EditText nome,endereco, telefone, dataNasc;
     Button btsalvar,btalterar;
-    int id;
+    long id;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cadastro);Intent intent    = getIntent();
-        id = (int) intent.getSerializableExtra("id");
+        id = (Long) intent.getSerializableExtra("id");
 
         String nomep     = (String) intent.getSerializableExtra("nome");
         String enderecop = (String) intent.getSerializableExtra("endereco");

@@ -21,12 +21,10 @@ public class MainActivity extends Activity {
     public void chamaTelaCadastrop(View v){
         Intent intentp = new Intent(MainActivity.this, ListActivity.class);
         startActivity(intentp);
-
     }
 
     public void chamaTelaCadastrov(View v){
-
-        Intent intentv = new Intent(MainActivity.this, ListActivity.class);
+        Intent intentv = new Intent(MainActivity.this, ListVActivity.class);
         startActivity(intentv);
     }
 

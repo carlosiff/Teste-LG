@@ -104,8 +104,8 @@
             android:text="Alterar"
             android:id="@+id/btAlterarP"
             />
-    </LinearLayout>
 
+    </LinearLayout>
 
 
 </LinearLayout>
