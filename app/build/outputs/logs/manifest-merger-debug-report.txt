@@ -1,127 +1,127 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:2:1-44:12
 	package
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml
 application
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:5:5-42:19
-MERGED from [com.android.support:design:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\AndroidManifest.xml:9:5-20
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:5:5-42:19
+MERGED from [com.android.support:design:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:10:9-35
 	android:allowBackup
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:8:9-43
 	android:theme
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:11:9-40
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:6:9-40
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:6:9-40
 meta-data#DATABASE
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:12:9-14:44
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:12:9-14:44
 	android:value
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:14:13-41
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:14:13-41
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:13:13-36
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:13:13-36
 meta-data#VERSION
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:15:9-17:33
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:15:9-17:33
 	android:value
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:17:13-30
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:17:13-30
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:16:13-35
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:16:13-35
 meta-data#QUERY_LOG
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:18:9-20:37
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:18:9-20:37
 	android:value
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:20:13-34
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:20:13-34
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:19:13-37
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:19:13-37
 meta-data#DOMAIN_PACKAGE_NAME
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:21:9-23:61
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:21:9-23:61
 	android:value
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:23:13-58
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:23:13-58
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:22:13-47
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:22:13-47
 activity#br.edu.iff.pooa20162.teste_lg.activity.ListActivity
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:25:9-28:59
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:25:9-28:59
 	android:label
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:27:13-45
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:27:13-45
 	android:theme
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:28:13-56
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:28:13-56
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:26:13-50
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:26:13-50
 activity#br.edu.iff.pooa20162.teste_lg.activity.MainActivity
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:29:9-35:20
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:29:9-35:20
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:29:19-56
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:29:19-56
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:30:13-34:29
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:33:27-74
 activity#br.edu.iff.pooa20162.teste_lg.activity.CadastroActivity
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:36:9-63
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:36:9-63
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:36:19-60
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:36:19-60
 activity#br.edu.iff.pooa20162.teste_lg.activity.ListVActivity
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:37:9-40:59
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:37:9-40:59
 	android:label
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:39:13-58
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:39:13-58
 	android:theme
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:40:13-56
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:40:13-56
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:38:13-51
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:38:13-51
 activity#br.edu.iff.pooa20162.teste_lg.activity.CadastroVActivity
-ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:41:9-73
+ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:41:9-73
 	android:name
-		ADDED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml:41:19-61
+		ADDED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml:41:19-61
 uses-sdk
-INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.github.satyan:sugar:1.5] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.5\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\AndroidManifest.xml:5:5-7:41
+INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.satyan:sugar:1.5] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.1] C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.1.1] /home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\src\main\AndroidManifest.xml
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aluno/AndroidStudioProjects/Teste-LG/app/src/main/AndroidManifest.xml

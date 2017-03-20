@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\rodri\\Downloads\\Teste-LG-20170314T032226Z-001\\Teste-LG\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\rodri\\Downloads\\Teste-LG-20170314T032226Z-001\\Teste-LG\\app\\build\\intermediates\\exploded-aar\\com.android.support.test\\rules\\0.5\\res\\values\\values.xml",
+                    "file": "/home/aluno/AndroidStudioProjects/Teste-LG/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

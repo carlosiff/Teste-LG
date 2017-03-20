@@ -18,7 +18,8 @@
         android:onClick="chamaTelaCadastrov"
         android:layout_marginTop="125dp"
         android:layout_below="@+id/proprietario"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        tools:ignore="HardcodedText" />
 
     <Button
         android:text="Proprietários"
@@ -28,7 +29,8 @@
         android:id="@+id/proprietario"
         android:onClick="chamaTelaCadastrop"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        tools:ignore="HardcodedText" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -36,6 +38,7 @@
         android:text="Cadastro de Veículos e Propietários!"
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        tools:ignore="HardcodedText" />
 
 </RelativeLayout>
