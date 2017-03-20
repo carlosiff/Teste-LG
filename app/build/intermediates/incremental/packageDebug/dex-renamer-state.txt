@@ -1,0 +1,4 @@
+#Sun Mar 19 23:06:00 BRT 2017
+base.0=C\:\\Users\\rodri\\Downloads\\Teste-LG-20170314T032226Z-001\\Teste-LG\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\rodri\\Downloads\\Teste-LG-20170314T032226Z-001\\Teste-LG\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

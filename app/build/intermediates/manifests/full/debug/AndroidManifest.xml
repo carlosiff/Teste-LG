@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.edu.iff.pooa20162.teste_lg"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
+
+    <application
+        android:name="com.orm.SugarApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="DATABASE"
+            android:value="cadastros.db" />
+        <meta-data
+            android:name="VERSION"
+            android:value="4" />
+        <meta-data
+            android:name="QUERY_LOG"
+            android:value="false" />
+        <meta-data
+            android:name="DOMAIN_PACKAGE_NAME"
+            android:value="br.edu.iff.pooa20162.teste_lg" />
+
+        <activity
+            android:name="br.edu.iff.pooa20162.teste_lg.activity.ListActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="br.edu.iff.pooa20162.teste_lg.activity.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="br.edu.iff.pooa20162.teste_lg.activity.CadastroActivity" />
+        <activity
+            android:name="br.edu.iff.pooa20162.teste_lg.activity.ListVActivity"
+            android:label="@string/title_activity_list_v"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="br.edu.iff.pooa20162.teste_lg.activity.CadastroVActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_de49f92085e8d22c52e897dbe7e28ec6bc52d71d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_04dd617e1d724f05405c4ec96b1cb4c057a0a8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_3d8f3ad15a26eb56cd5af82cdab3eb9ccab3003b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_be818cbbf5cb932a24281d11ed7ea281a176f199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_14052857e8e737c62a5b38853de692dceefe8620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_1b871449a9b5a76041a24ab9433683c362015469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_93228f71fc0ba04ca5bb49b8f1029adb863b39be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19a40a8afe0289f6520b25353096ac233e78f69d">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.5_ff4470051f3d6f226f4d2fa22fa0076db8f3b0bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_36382e562216232b25c42dcac7365232043bc1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_3904b143fcf43aea8cdd113eb8cb8f1a5ffe572a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_e6d7a2a7b23e1345654457dbea77330c8180ac37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_bc2f503825d2cc408a18ca98f88d4ce9bb5aed89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_571b484e9cf7017dc868eeb06022e3017174a9d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_f2a11181b547084057f706bda68b25b82fa7a276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_6ad501d83b3005034f7d572078443e318d4690b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\rodri\Downloads\Teste-LG-20170314T032226Z-001\Teste-LG\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_90ae83533e6bf38a56772cf56909e87e413e0bb7.jar" />
+    </item>
+
+</items>
