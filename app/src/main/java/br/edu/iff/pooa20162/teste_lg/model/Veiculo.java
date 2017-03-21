@@ -11,12 +11,14 @@ public class Veiculo  extends SugarRecord {
     private String modelo;
     private String ano;
     private String placa;
+    private Proprietario proprietario;
 
-    public Veiculo(String marca, String modelo, String ano, String placa) {
+    public Veiculo(String marca, String modelo, String ano, String placa, Proprietario proprietario) {
         this.marca = marca;
         this.modelo = modelo;
         this.ano = ano;
         this.placa = placa;
+        this.proprietario = proprietario;
     }
 
     public Veiculo(){
@@ -54,5 +56,9 @@ public class Veiculo  extends SugarRecord {
     public void setPlaca(String placa) {
         this.placa = placa;
     }
+
+    public Proprietario getProprietario() {return proprietario;}
+
+    public void setProprietario(Proprietario proprietario) {this.proprietario = proprietario;}
 }
 

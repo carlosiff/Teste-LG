@@ -37,10 +37,12 @@ public class VeiculoAdapter extends ArrayAdapter<Veiculo> {
         TextView modelo = (TextView) rowView.findViewById(R.id.tvllvModelo);
         TextView ano = (TextView) rowView.findViewById(R.id.tvllvAno);
         TextView placa = (TextView) rowView.findViewById(R.id.tvllvPlaca);
+        TextView proprietario = (TextView) rowView.findViewById(R.id.tvllvProprietario);
 
         marca.setText(veiculos.get(position).getMarca());
         modelo.setText(veiculos.get(position).getModelo());
         ano.setText(veiculos.get(position).getAno());
+        proprietario.setText(veiculos.get(position).getProprietario().getNome());
         placa.setText(veiculos.get(position).getPlaca());
         return rowView;
     }

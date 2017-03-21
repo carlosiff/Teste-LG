@@ -1,6 +1,8 @@
 package br.edu.iff.pooa20162.teste_lg.adapter;
 
 import android.content.Context;
+import android.os.Parcel;
+import android.os.Parcelable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -32,6 +34,7 @@ public class ProprietarioAdapter extends ArrayAdapter<Proprietario> {
                 .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 
         View rowView = inflater.inflate(R.layout.linhaproprietario, parent, false);
+        final Proprietario item = getItem(position);
 
         TextView nome = (TextView) rowView.findViewById(R.id.tvllvNome);
         TextView endereco = (TextView) rowView.findViewById(R.id.tvllvEndereco);
@@ -45,5 +48,9 @@ public class ProprietarioAdapter extends ArrayAdapter<Proprietario> {
         return rowView;
     }
 
+    @Override
+    public long getItemId(int position) {
+        return super.getItemId(position);
+    }
 
 }
